@@ -7,4 +7,5 @@ I'm [**Ashley**](https://www.linkedin.com/in/ashuhlee/), a computer science stud
 When I am not *programming*, you can find me gaming, video editing, drawing pixel art, at the gym, or making tech-related content
 
 #### Stuff I'm working on (˶ᵔ ᵕ ᵔ˶)−☆
-[starlit](https://github.com/ashuhlee/starlit) - pretty forecasts for your terminal  ·  [count-o-rama](https://github.com/ashuhlee/count-or-die) - test your reaction time
+· [starlit](https://github.com/ashuhlee/starlit) - pretty forecasts for your terminal<br>
+· [count-o-rama](https://github.com/ashuhlee/count-or-die) - test your reaction time
