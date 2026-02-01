@@ -2,7 +2,7 @@
 
 <!-- <img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='250' height='250'> -->
 
-I'm [**Ashley**](https://www.linkedin.com/in/ashuhlee/), a computer science student, creative programmer, and designer ✽
+I'm [**Ashley**](https://www.linkedin.com/in/ashuhlee/), a computer science student, creative programmer, and designer <img src="https://github.com/user-attachments/assets/a5544530-4e03-4651-8382-051ed6a1e1ec" width="18"/>
 
 When I am not *programming*, you can find me gaming, video editing, drawing pixel art, at the gym, or making tech-related content
 
