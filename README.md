@@ -1,4 +1,5 @@
-### Hi there!<img src="https://github.com/user-attachments/assets/b980bd51-91a1-4519-8256-ebecbb7b4955" width="70"/>
+## ashuhlee <img src="https://github.com/user-attachments/assets/b980bd51-91a1-4519-8256-ebecbb7b4955" width="70"/>
+### A little about me
 
 <!-- <img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='250' height='250'> -->
 
