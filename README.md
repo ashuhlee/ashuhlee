@@ -10,5 +10,3 @@ When I am not *programming*, you can find me gaming, video editing, drawing pixe
 #### Stuff I'm working on (˶ᵔ ᵕ ᵔ˶)−☆
 · [starlit](https://github.com/ashuhlee/starlit) - pretty forecasts for your terminal<br>
 · [count-o-rama](https://github.com/ashuhlee/count-or-die) - test your reaction time
-
-`hot-take $ jetbrains > vs code`
