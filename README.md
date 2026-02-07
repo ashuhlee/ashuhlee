@@ -8,5 +8,5 @@ I'm [**Ashley**](https://www.linkedin.com/in/ashuhlee/), a computer science stud
 When I am not *programming*, you can find me gaming, video editing, drawing pixel art, at the gym, or making tech-related content (12k+ followers)
 
 #### Stuff I'm working on (˶ᵔ ᵕ ᵔ˶)−☆
-· [count or die](https://github.com/ashuhlee/count-or-die) - arcade style clicker game
-· [starlit](https://github.com/ashuhlee/starlit) - pretty forecasts for your terminal<br>
+· [count or die](https://github.com/ashuhlee/count-or-die) - arcade style clicker game<br>
+· [starlit](https://github.com/ashuhlee/starlit) - pretty forecasts for your terminal
