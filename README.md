@@ -1,5 +1,5 @@
 <br>
-<img width="150" alt="hi there" src="https://github.com/user-attachments/assets/9424b3a5-60dd-4e0d-bcca-9baeb9088939" />
+<img width="150" alt="hi there" src="https://github.com/user-attachments/assets/9424b3a5-60dd-4e0d-bcca-9baeb9088939" /><img align="right" width="115" alt="profile" src="https://github.com/user-attachments/assets/de50f954-774b-44cb-9887-d1d336d302f3" />
 <br><br>
 
 I'm Ashley, a computer science student, creative programmer and designer. 
@@ -13,11 +13,10 @@ I love to build both fun and intuitive things. When I'm not *coding*, you can fi
  ⋅ **Starlit:**  customizable and aesthetic weather forecasts designed for your terminal
 
 #### More info 🍡
- ⋅ **Interests:** design thinking, prototyping and terminal tools<br>
+ ⋅ **Interests:** design thinking, prototyping, build and terminal tools<br>
 
 ![Terminal](https://img.shields.io/badge/~%20Terminal-Ghostty-7983DA?style=flat)
 ![Editor](https://img.shields.io/badge/Editor-Jetbrains-F883CF?style=flat)
 ![Shell](https://img.shields.io/badge/Shell-zsh-7EC0E0?style=flat)
 
 <!-- <img src="https://github-stats-kappa-sable.vercel.app/api/top-langs/?username=ashuhlee&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=10&hide=css&hide_title=true&bg_color=0D1116"/> -->
-    
