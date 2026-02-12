@@ -1,6 +1,6 @@
 ### Hi there! <!-- <img src="" width="25"/> -->
 
-<img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='180' height='180'>
+<img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='150' height='150'>
 
 I'm Ashley, a computer science student, creative programmer and designer. 
 
@@ -10,5 +10,7 @@ I love to build both fun and intuitive things. When I'm not *coding*, you can fi
 · **Count or Die:** an arcade style clicker game with fun game mechanics ~ and a cute interface<br>
 · **Starlit:**  customizable and aesthetic weather forecasts designed for your terminal
 
-![Profile Views](https://komarev.com/ghpvc/?username=ashuhlee&color=FF92D2&style=flat&label=Profile+Views)
+#### More info 🍡
+· **Interests:** design thinking, prototyping and terminal tools<br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=ashuhlee&color=FF92D2&style=flat&label=Profile+views)
