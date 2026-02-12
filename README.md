@@ -13,4 +13,6 @@ I love to build both fun and intuitive things. When I'm not *coding*, you can fi
 #### More info 🍡
 · **Interests:** design thinking, prototyping and terminal tools<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ashuhlee&color=FF92D2&style=flat&label=Profile+views)
+![Terminal](https://img.shields.io/badge/Terminal-Ghostty-7983DA?style=flat)
+![Editor](https://img.shields.io/badge/Editor-Jetbrains-F883CF?style=flat)
+![Page Visits](https://komarev.com/ghpvc/?username=ashuhlee&color=88D1F4&style=flat&label=Page+views)
