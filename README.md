@@ -1,5 +1,6 @@
-
-<img width="150" alt="hii" src="https://github.com/user-attachments/assets/918acedf-dc9e-4c81-8e9a-d05402b991e2" /><br>
+<br>
+<img width="150" alt="hi there" src="https://github.com/user-attachments/assets/9424b3a5-60dd-4e0d-bcca-9baeb9088939" />
+<br><br>
 
 I'm Ashley, a computer science student, creative programmer and designer. 
 
@@ -8,12 +9,12 @@ I'm Ashley, a computer science student, creative programmer and designer.
 I love to build both fun and intuitive things. When I'm not *coding*, you can find me video editing, drawing pixel art or making tech-related content
 
 #### Stuff I'm working on 🧋
-· **Count or Die:** an arcade style clicker game with fun game mechanics ~ and a cute interface<br>
-· **Starlit:**  customizable and aesthetic weather forecasts designed for your terminal
+ ⋅ **Count or Die:** an arcade style clicker game with fun game mechanics ~ and a cute interface<br>
+ ⋅ **Starlit:**  customizable and aesthetic weather forecasts designed for your terminal
 
 #### More info 🍡
-· **Interests:** design thinking, prototyping and terminal tools<br>
+ ⋅ **Interests:** design thinking, prototyping and terminal tools<br>
 
-![Terminal](https://img.shields.io/badge/Terminal-Ghostty-7983DA?style=flat)
+![Terminal](https://img.shields.io/badge/~%20Terminal-Ghostty-7983DA?style=flat)
 ![Editor](https://img.shields.io/badge/Editor-Jetbrains-F883CF?style=flat)
-![Page Visits](https://komarev.com/ghpvc/?username=ashuhlee&color=88D1F4&style=flat&label=Page+views)
+![Shell](https://img.shields.io/badge/Shell-zsh-7EC0E0?style=flat)
