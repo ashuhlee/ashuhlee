@@ -2,9 +2,9 @@
 
 I'm Ashley, a computer science student, creative programmer and designer. 
 
-I love to build both fun and intuitive things. When I'm not *coding*, you can find me video editing, drawing pixel art, at the gym or making tech-related content
+<img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='190' height='190'>
 
-<img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='200' height='200'>
+I love to build both fun and intuitive things. When I'm not *coding*, you can find me video editing, drawing pixel art or making tech-related content
 
 #### Stuff I'm working on 🧋
 · **Count or Die:** an arcade style clicker game with fun game mechanics ~ and a cute interface<br>
