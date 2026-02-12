@@ -1,4 +1,5 @@
-### Hi there! <!-- <img src="" width="25"/> -->
+
+<img width="150" alt="hii" src="https://github.com/user-attachments/assets/918acedf-dc9e-4c81-8e9a-d05402b991e2" /><br>
 
 I'm Ashley, a computer science student, creative programmer and designer. 
 
