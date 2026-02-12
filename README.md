@@ -10,8 +10,5 @@ I love to build both fun and intuitive things. When I'm not *coding*, you can fi
 · **Count or Die:** an arcade style clicker game with fun game mechanics ~ and a cute interface<br>
 · **Starlit:**  customizable and aesthetic weather forecasts designed for your terminal
 
-#### More info 🍡
-· **Interests:** design thinking, prototyping and terminal tools<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ashuhlee&color=FF92D2&style=flat&label=Profile+Views)
 
