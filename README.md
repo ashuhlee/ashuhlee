@@ -1,8 +1,8 @@
-#### Hi there! <!-- <img src="" width="25"/> -->
+### Hi there! <!-- <img src="" width="25"/> -->
+
+<img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='210' height='210'>
 
 I'm Ashley, a computer science student, creative programmer and designer. 
-
-<img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='260' height='260'>
 
 I love to build both fun and intuitive things. When I'm not *coding*, you can find me video editing, drawing pixel art, at the gym or making tech-related content
 
@@ -10,5 +10,5 @@ I love to build both fun and intuitive things. When I'm not *coding*, you can fi
 · [Count or Die](https://github.com/ashuhlee/count-or-die) - An arcade style clicker game with fun game mechanics ~ and a cute interface<br>
 · [Starlit](https://github.com/ashuhlee/starlit) - A customizable and aesthetic weather forecasts designed for your terminal
 
-#### Nerd corner 🍡
+#### More info 🍡
 · **Interests:** design thinking, prototyping and terminal tools<br>
