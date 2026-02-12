@@ -1,6 +1,6 @@
+
+<img width="150" alt="hi there" src="https://github.com/user-attachments/assets/9424b3a5-60dd-4e0d-bcca-9baeb9088939" /><img align="right" width="115" alt="profile" src="https://github.com/user-attachments/assets/376073d2-10fd-4706-b2cc-393e1b6e7479" />
 <br>
-<img width="150" alt="hi there" src="https://github.com/user-attachments/assets/9424b3a5-60dd-4e0d-bcca-9baeb9088939" /><img align="right" width="115" alt="profile" src="https://github.com/user-attachments/assets/de50f954-774b-44cb-9887-d1d336d302f3" />
-<br><br>
 
 I'm Ashley, a computer science student, creative programmer and designer. 
 
