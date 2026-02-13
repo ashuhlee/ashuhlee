@@ -1,5 +1,5 @@
 <br>
-<img width="150" alt="hi there" src="https://github.com/user-attachments/assets/9424b3a5-60dd-4e0d-bcca-9baeb9088939" /><img align="right" width="120" alt="profile" src="https://github.com/user-attachments/assets/137aaa81-46a9-497f-a2f5-9af0825c0e81" />
+<img width="150" alt="hi there" src="https://github.com/user-attachments/assets/9424b3a5-60dd-4e0d-bcca-9baeb9088939" /><img align="right" width="120" alt="profile" src="https://github.com/user-attachments/assets/4543b53f-c1b6-45e5-84f9-482fea7bb936" />
 <br><br>
 
 I'm Ashley, a computer science student, creative programmer and designer. 
