@@ -1,5 +1,5 @@
 <br>
-<img width="150" alt="hi there" src="https://github.com/user-attachments/assets/9424b3a5-60dd-4e0d-bcca-9baeb9088939" /><img align="right" width="120" alt="profile" src="https://github.com/user-attachments/assets/376073d2-10fd-4706-b2cc-393e1b6e7479" />
+<img width="150" alt="hi there" src="https://github.com/user-attachments/assets/9424b3a5-60dd-4e0d-bcca-9baeb9088939" /><img align="right" width="120" alt="profile" src="https://github.com/user-attachments/assets/137aaa81-46a9-497f-a2f5-9af0825c0e81" />
 <br><br>
 
 I'm Ashley, a computer science student, creative programmer and designer. 
@@ -16,8 +16,8 @@ drawing pixel art or making tech-related content
 #### More info 🍡
  ⋅ **Interests:** design thinking, prototyping, build and terminal tools<br>
 
-![Terminal](https://img.shields.io/badge/~%20Terminal-Ghostty-7983DA?style=flat)
-![Editor](https://img.shields.io/badge/Editor-Jetbrains-F883CF?style=flat)
-![Shell](https://img.shields.io/badge/Shell-zsh-7EC0E0?style=flat)
+<a href="https://ghostty.org/" target="_blank"><img src="https://img.shields.io/badge/~%20Terminal-Ghostty-7983DA?style=flat" alt="Terminal"></a>
+<a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/Editor-Jetbrains-F883CF?style=flat" alt="Editor"></a>
+<a href="https://ohmyz.sh/" target="_blank"><img src="https://img.shields.io/badge/Shell-zsh-7EC0E0?style=flat" alt="Shell"></a>
 
 <!-- <img src="https://github-stats-kappa-sable.vercel.app/api/top-langs/?username=ashuhlee&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=10&hide=css&hide_title=true&bg_color=0D1116"/> -->
