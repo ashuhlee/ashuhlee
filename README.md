@@ -17,7 +17,7 @@ drawing pixel art or making tech-related content
  ⋅ **Interests:** design thinking, prototyping, build and terminal tools<br>
 
 <a href="https://ghostty.org/" target="_blank"><img src="https://img.shields.io/badge/~%20Terminal-Ghostty-7983DA?style=flat" alt="Terminal"></a>
-<a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/Editor-Jetbrains-F883CF?style=flat" alt="Editor"></a>
+<a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/Editor-JetBrains-F883CF?style=flat" alt="Editor"></a>
 <a href="https://ohmyz.sh/" target="_blank"><img src="https://img.shields.io/badge/Shell-zsh-7EC0E0?style=flat" alt="Shell"></a>
 
 <!-- <img src="https://github-stats-kappa-sable.vercel.app/api/top-langs/?username=ashuhlee&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=10&hide=css&hide_title=true&bg_color=0D1116"/> -->
