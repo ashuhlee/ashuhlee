@@ -21,10 +21,12 @@ drawing pixel art or making tech-related content
 <a href="https://ohmyz.sh/" target="_blank"><img src="https://img.shields.io/badge/Shell-zsh-7EC0E0?style=flat" alt="Shell"></a>
 
 <details>
-<summary><b>Tech stack 🎧</b></summary>
+ <summary><b>Tech stack</b></summary>
+ <br>
  
- ⋅ **Languages:** Python, TypeScript, JavaScript, Lua, C, Java, SQL, Sass/CSS<br>
- ⋅ **Frameworks:** React, React Native, Next.js, Tailwind, Electron, numPy, spaCy, pandas, Matplotlib<br>
-</details>
+**Languages:** Python, TypeScript, JavaScript, Lua, C, Java, SQL, Sass/CSS<br>
+**Frameworks:** React, React Native, Next.js, Tailwind, Electron, numPy, spaCy, pandas, Matplotlib<br>
 
-<!-- <img src="https://github-stats-kappa-sable.vercel.app/api/top-langs/?username=ashuhlee&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=10&hide=css&hide_title=true&bg_color=0D1116"/> -->
+ 
+ <img src="https://github-stats-kappa-sable.vercel.app/api/top-langs/?username=ashuhlee&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=10&hide=css&hide_title=true&bg_color=0D1116&card_width=600"/>
+</details>
