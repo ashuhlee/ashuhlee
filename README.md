@@ -13,6 +13,13 @@ drawing pixel art or making tech-related content
  ⋅ **Count or Die:** an arcade style clicker game with fun game mechanics ~ and a cute interface<br>
  ⋅ **Starlit:**  customizable and aesthetic weather forecasts designed for your terminal
 
+#### Tech stack 🎧
+![Static Badge](https://img.shields.io/badge/-python-91A5FF?logo=python&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/-javascript-FFEB87?logo=javascript&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/-sass-ED8EBC?logo=sass&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/-lua-485AA3?logo=lua&logoColor=fff)
+
+ 
 #### More info 🍡
  ⋅ **Interests:** design thinking, prototyping, build and terminal tools<br>
 
