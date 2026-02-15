@@ -27,6 +27,4 @@ drawing pixel art or making tech-related content
 **Languages:** Python, TypeScript, JavaScript, Lua, C, Java, SQL, Sass/CSS<br>
 **Frameworks:** React, React Native, Next.js, Tailwind, Electron, numPy, spaCy, pandas, Matplotlib<br>
 
- 
- <img src="https://github-stats-kappa-sable.vercel.app/api/top-langs/?username=ashuhlee&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=10&hide=css&hide_title=true&bg_color=0D1116&card_width=600"/>
 </details>
