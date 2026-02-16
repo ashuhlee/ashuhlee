@@ -20,11 +20,11 @@ drawing pixel art or making tech-related content
 <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/Editor-JetBrains-F883CF?style=flat" alt="Editor"></a>
 <a href="https://ohmyz.sh/" target="_blank"><img src="https://img.shields.io/badge/Shell-zsh-7EC0E0?style=flat" alt="Shell"></a>
 
-<details>
+<!-- <details>
  <summary><b>Tech stack</b></summary>
  <br>
  
 **Languages:** Python, TypeScript, JavaScript, Lua, C, Java, SQL, Sass/CSS<br>
 **Frameworks:** React, React Native, Next.js, Tailwind, Electron, numPy, spaCy, pandas, Matplotlib<br>
 
-</details>
+</details> -->
