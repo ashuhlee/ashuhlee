@@ -1,5 +1,5 @@
 <br>
-<img width="150" alt="hi there" src="https://github.com/user-attachments/assets/9424b3a5-60dd-4e0d-bcca-9baeb9088939" /><img align="right" width="120" alt="profile" src="https://github.com/user-attachments/assets/4543b53f-c1b6-45e5-84f9-482fea7bb936" />
+<img width="150" alt="hi there" src="https://github.com/user-attachments/assets/9424b3a5-60dd-4e0d-bcca-9baeb9088939" /><img align="right" width="120" alt="profile" src="https://github.com/user-attachments/assets/4543b53f-c1b6-45e5-84f9-482fea7bb936"/>
 <br><br>
 
 I'm Ashley, a computer science student, creative programmer and designer. 
@@ -7,7 +7,7 @@ I'm Ashley, a computer science student, creative programmer and designer.
 I love to build both fun and intuitive things. When I'm not *coding*, you can find me video editing,<br>
 drawing pixel art or making tech-related content
 
-<img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='190' height='190'>
+<!-- <img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='190' height='190' style="opacity: 0;"> -->
 
 #### Stuff I'm working on 🧋
  ⋅ **Count or Die:** an arcade style clicker game with fun game mechanics ~ and a cute interface<br>
