@@ -8,12 +8,8 @@ I love to build both fun and intuitive things. When I'm not *coding*, you can fi
 drawing pixel art or making tech-related content
 
 <!-- <img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='190' height='190' style="opacity: 0;"> -->
-
-#### Stuff I'm working on 🧋
- ⋅ **Count or Die:** an arcade style clicker game with fun game mechanics ~ and a cute interface<br>
- ⋅ **Starlit:**  customizable and aesthetic weather forecasts designed for your terminal
  
-#### More info 🍡
+#### More info 🧋
  ⋅ **Interests:** design thinking, prototyping, build and terminal tools<br>
 
 <a href="https://ghostty.org/" target="_blank"><img src="https://img.shields.io/badge/~%20Terminal-Ghostty-7983DA?style=flat&labelColor=282836" alt="Terminal"></a>
