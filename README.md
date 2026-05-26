@@ -1,21 +1,20 @@
 <br>
-<img width="150" alt="hi there" src="https://github.com/user-attachments/assets/9424b3a5-60dd-4e0d-bcca-9baeb9088939" /><img align="right" width="120" alt="profile" src="https://github.com/user-attachments/assets/4543b53f-c1b6-45e5-84f9-482fea7bb936"/>
+<img width="130" alt="hi there" src="https://github.com/user-attachments/assets/ce3849b3-6165-471c-907e-b76e02311877" /><img align="right" width="90" alt="profile" src="https://github.com/user-attachments/assets/1a997ad4-d9ff-470f-8b26-e8af365a854e"/>
 <br><br>
 
-I'm Ashley, a computer science student, creative programmer and designer. <br>
-Incoming Software Engineer Intern [@Pesa](https://www.pesa.co)
+cs student and designer ✽ incoming swe intern @ [pesa](https://www.pesa.co)
 
-I love to build both fun and intuitive things. When I'm not *coding*, you can find me video editing,<br>
+i love building fun and intuitive things. when i'm not *coding*, you can find me video editing,<br>
 drawing pixel art or making tech-related content
 
 <!-- <img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='190' height='190' style="opacity: 0;"> -->
  
-#### More info 🧋
- ⋅ **Interests:** design thinking, prototyping, build and terminal tools<br>
+#### more info 🧋
+ ・ **interests:** design thinking, prototyping, build and terminal tools<br>
 
-<a href="https://ghostty.org/" target="_blank"><img src="https://img.shields.io/badge/~%20Terminal-Ghostty-7983DA?style=flat&labelColor=282836" alt="Terminal"></a>
-<a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/Editor-JetBrains-F883CF?style=flat&labelColor=282836" alt="Editor"></a>
-<a href="https://ohmyz.sh/" target="_blank"><img src="https://img.shields.io/badge/Shell-zsh-7EC0E0?style=flat&labelColor=282836" alt="Shell"></a>
+<a href="https://ghostty.org/" target="_blank"><img src="https://img.shields.io/badge/~%20terminal-ghostty-7983DA?style=flat&labelColor=282836" alt="Terminal"></a>
+<a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/editor-jetbrains-F883CF?style=flat&labelColor=282836" alt="Editor"></a>
+<a href="https://ohmyz.sh/" target="_blank"><img src="https://img.shields.io/badge/shell-zsh-7EC0E0?style=flat&labelColor=282836" alt="Shell"></a>
 
 <!-- <details>
  <summary><b>Tech stack</b></summary>
