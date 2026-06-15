@@ -2,10 +2,10 @@
 <img width="130" alt="hi there" src="https://github.com/user-attachments/assets/ce3849b3-6165-471c-907e-b76e02311877" /><img align="right" width="90" alt="profile" src="https://github.com/user-attachments/assets/1a997ad4-d9ff-470f-8b26-e8af365a854e"/>
 <br><br>
 
-cs student and designer ✽ frontend swe intern @ [pesa](https://www.pesa.co)
+computer science student ✽ frontend swe intern @ [pesa](https://www.pesa.co)
 
 i love building fun and intuitive things. when i'm not *coding*, you can find me video editing,<br>
-drawing pixel art or making tech-related content
+pushing pixels or making tech-related content
 
 <!-- <img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='190' height='190' style="opacity: 0;"> -->
  
