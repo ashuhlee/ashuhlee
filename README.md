@@ -13,7 +13,6 @@ pushing pixels or making tech-related content
  ・ **Interests:** design thinking, prototyping, build and terminal tools<br>
  ・ **Focus:** cross platform + native mobile and web app development, data analytics<br>
  #### what i'm building ⋆ ˙⟡ 💭
- ・ **Count or ☠️:** reaction-based arcade game with a twist [(try it out)](https://github.com/ashuhlee/count-or-die)<br>
  ・ **Lysta:** save, organize and share your wishlisted items with friends<br>
  ・ **Synced:** plan and manage your Twitch stream schedule from your phone<br>
 
