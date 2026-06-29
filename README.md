@@ -4,8 +4,8 @@
 
 I'm Ashley, a computer science student 🧋 frontend eng intern [@pesa](https://www.pesa.co)
 
-I love building fun and intuitive things. when i'm not *coding*, you can find me video editing,<br>
-pushing pixels or making tech content. I also love terminal tools :)
+I love building fun and intuitive things. when i'm not *coding*, pushing pixels or,<br>
+making tech content. I also love terminal tools :) Check out my projects!
 
 <!-- <img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='190' height='190' style="opacity: 0;"> -->
 
