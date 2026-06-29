@@ -2,7 +2,7 @@
 <img width="130" alt="hi there" src="https://github.com/user-attachments/assets/ce3849b3-6165-471c-907e-b76e02311877" /><img align="right" width="90" alt="profile" src="https://github.com/user-attachments/assets/1a997ad4-d9ff-470f-8b26-e8af365a854e"/>
 <br><br>
 
-I'm Ashley, a computer science student & frontend eng intern [@pesa](https://www.pesa.co)
+I'm Ashley, a computer science student 🧋 frontend eng intern [@pesa](https://www.pesa.co)
 
 I love building fun and intuitive things. when i'm not *coding*, you can find me video editing,<br>
 pushing pixels or making tech content. I also love terminal tools :)
@@ -12,9 +12,6 @@ pushing pixels or making tech content. I also love terminal tools :)
  #### what i'm building ⋆ ˙⟡ 💭
  ・ **lysta:** save, organize and share your wishlisted items with friends<br>
  ・ **synced:** plan and manage your Twitch stream schedule from your phone<br>
- 
-#### more info 🧋
- ・ **focus:** cross platform + native mobile and web app development, data analytics<br>
 
 <a href="https://ghostty.org/" target="_blank"><img src="https://img.shields.io/badge/~%20terminal-ghostty-7983DA?style=flat&labelColor=282836" alt="Terminal"></a>
 <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/editor-jetbrains-F883CF?style=flat&labelColor=282836" alt="Editor"></a>
