@@ -2,7 +2,7 @@
 <img width="130" alt="hi there" src="https://github.com/user-attachments/assets/ce3849b3-6165-471c-907e-b76e02311877" /><img align="right" width="90" alt="profile" src="https://github.com/user-attachments/assets/1a997ad4-d9ff-470f-8b26-e8af365a854e"/>
 <br><br>
 
-I'm Ashley, a computer science student 🧋 frontend eng intern [@pesa](https://www.pesa.co)
+I'm Ashley, a computer science student 🧋 frontend swe intern [@pesa](https://www.pesa.co)
 
 I love building fun and intuitive things. when i'm not *coding*, you can find me pushing pixels<br>
 or making tech content. I also love terminal tools :) feel free to check out my projects!
