@@ -9,7 +9,7 @@ or making tech content. I also love terminal tools :) feel free to check out my 
 
 <!-- <img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='190' height='190' style="opacity: 0;"> -->
 
- #### what i'm building ⋆ ˙⟡ 💭
+ #### what i'm building
  ・ **lysta:** save, organize and share your wishlisted items with friends<br>
  ・ **synced:** plan and manage your Twitch stream schedule from your phone<br>
 
