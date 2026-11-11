@@ -1,6 +1,9 @@
-<br>
-<img width="130" alt="hi there" src="https://github.com/user-attachments/assets/ce3849b3-6165-471c-907e-b76e02311877" /><img align="right" width="90" alt="profile" src="https://github.com/user-attachments/assets/1a997ad4-d9ff-470f-8b26-e8af365a854e"/>
-<br><br>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/af755fd7-4361-4e9a-9622-022ab4db2442" width="64" height="64" alt="ashuhlee" style="border-radius: 0;"/>
+</p>
+
+<h3>Nice to meet you!</h3> <img align="right" width="90" alt="profile" src="https://github.com/user-attachments/assets/1a997ad4-d9ff-470f-8b26-e8af365a854e"/>
+ꕀ
 
 I'm **Ashley**, a software engineer, student, creative programmer, and hobbyist designer
 
@@ -15,7 +18,7 @@ or making tech content. I also love terminal tools :) check out my projects and 
  ・ **lysta:** save, organize and share your wishlisted items with friends<br>
  ・ **loggi:** track and log your daily meals, steps and weight (beta out soon!)<br>
 
-<a href="https://ghostty.org/" target="_blank"><img src="https://img.shields.io/badge/~%20Terminal-ghostty-7983DA?style=flat&labelColor=282836" alt="Terminal"></a>
+<!-- <a href="https://ghostty.org/" target="_blank"><img src="https://img.shields.io/badge/~%20Terminal-ghostty-7983DA?style=flat&labelColor=282836" alt="Terminal"></a>
 <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/Editor-jetbrains-F883CF?style=flat&labelColor=282836" alt="Editor"></a>
-<a href="https://ohmyz.sh/" target="_blank"><img src="https://img.shields.io/badge/Shell-zsh-7EC0E0?style=flat&labelColor=282836" alt="Shell"></a>
+<a href="https://ohmyz.sh/" target="_blank"><img src="https://img.shields.io/badge/Shell-zsh-7EC0E0?style=flat&labelColor=282836" alt="Shell"></a> -->
 
