@@ -3,12 +3,11 @@
 </p>
 
 ### Nice to meet you!
-
 ꕀ
 
 I'm **Ashley**, a software engineer, student, creative programmer, and hobbyist designer
 
-I'm a frontend engineer intern [@Sunlife](https://www.sunlife.ca/) & incoming software engineer intern [@Manulife](https://www.manulife.com/)
+Currently a frontend engineer intern [@Sunlife](https://www.sunlife.ca/) & incoming software engineer intern [@Manulife](https://www.manulife.com/)
 
 I love building fun and intuitive things. when i'm not *coding*, you can find me pushing pixels<br>
 or making tech content. I also love terminal tools :) check out my projects and [portfolio](https://www.ashuhlee.ca)!
