@@ -1,8 +1,9 @@
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/af755fd7-4361-4e9a-9622-022ab4db2442" width="64" height="64" alt="ashuhlee" style="border-radius: 0;"/>
+  <img src="https://github.com/user-attachments/assets/af755fd7-4361-4e9a-9622-022ab4db2442" width="56" height="56" alt="ashuhlee" style="border-radius: 0;"/>
 </p>
 
-<h3>Nice to meet you!</h3> <img align="right" width="90" alt="profile" src="https://github.com/user-attachments/assets/1a997ad4-d9ff-470f-8b26-e8af365a854e"/>
+### Nice to meet you!
+
 ꕀ
 
 I'm **Ashley**, a software engineer, student, creative programmer, and hobbyist designer
@@ -14,7 +15,7 @@ or making tech content. I also love terminal tools :) check out my projects and 
 
 <!-- <img align='right' src='https://github.com/user-attachments/assets/4a3c69a9-58d1-4a84-836c-1cfc2219fd8c' width='190' height='190' style="opacity: 0;"> -->
 
- #### what I'm building 💭
+ #### what I'm building 💭☆
  ・ **lysta:** save, organize and share your wishlisted items with friends<br>
  ・ **loggi:** track and log your daily meals, steps and weight (beta out soon!)<br>
 
