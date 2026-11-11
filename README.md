@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/af755fd7-4361-4e9a-9622-022ab4db2442" width="56" height="56" alt="ashuhlee" style="border-radius: 0;"/>
-</p>
-
 ### Nice to meet you!
 ꕀ
 
